@@ -1,4 +1,4 @@
-# Datascience-Project
+# Evaluation of Sampling algorithms
 
 This project compares 3 subsampling algorithms: Uniform Subsampling,Lightweight-coreset,ProTras on KDD protein Homology dataset.
 

@@ -8,3 +8,5 @@ We evaluated mentioned algorithms for subsample size m =100,200,500,1000 and app
 
 
 ![alt text](https://github.com/jenil19/Sampling-algorithm-evaluation/blob/master/comp.png?raw=true)
+
+![alt text](https://github.com/jenil19/Evaluation-of-sampling-algorithms/blob/master/time.png?raw=true)
